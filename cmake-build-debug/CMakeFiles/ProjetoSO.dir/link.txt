@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/ProjetoSO.dir/Monitor.c.o CMakeFiles/ProjetoSO.dir/util.c.o CMakeFiles/ProjetoSO.dir/Simulator.c.o  -o ProjetoSO 

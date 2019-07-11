@@ -1,0 +1,15 @@
+**********************************************************************
+*************************Estatisticas da Loja*************************
+**********************************************************************
+Numero de clientes não prioritários = 2
+Numero de clientes prioritários = 18
+Numero de desistências =  = 2
+Numero de clientes atendidos = 18
+Numero de empregados = 1
+Numero de stock prod A = 10
+Numero de stock prod B = 10
+Numero de stock prod C = 9
+Tempo médio atendimento = 8
+**********************************************************************
+**********************************FIM*********************************
+**********************************************************************

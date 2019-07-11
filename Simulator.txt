@@ -1,0 +1,12 @@
+sim_begin=1 
+sim_time=1 
+nr_total_clients=50
+nr_prod=4
+stock_prod=5
+stock_shop=10
+service_time_prodA=1
+service_time_prodB=2
+service_time_prodC=2
+service_time_prodD=1
+withdrawal_prob=10
+priority_prob=80

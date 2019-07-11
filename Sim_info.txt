@@ -1,0 +1,893 @@
+
+(0:0) Caixa Número 1 Disponivel
+
+(0:1) Cliente prioritário numero 1 chegou á loja
+
+
+(0:1) Cliente 1 desistiu!
+
+
+(0:3) Cliente numero 2 chegou á loja
+
+(0:5) Cliente numero 3 chegou á loja
+
+(0:6) Cliente numero 2 escolheu o produto A
+
+(0:7) Cliente prioritário numero 4 chegou á loja
+
+(0:8) Cliente numero 3 escolheu o produto D
+
+
+(0:8) Cliente 2 nao prioritario atendido!
+
+
+(0:9) Cliente numero 5 chegou á loja
+
+(0:9) Cliente numero 4 escolheu o produto A
+
+
+(0:9) Cliente 4 prioritario atendido!
+
+
+(0:11) Cliente prioritário numero 6 chegou á loja
+
+
+(0:12) Cliente 6 desistiu!
+
+
+(0:13) Cliente numero 7 chegou á loja
+
+(0:15) Cliente numero 5 escolheu o produto D
+
+(0:15) Cliente numero 8 chegou á loja
+
+
+(0:16) Cliente 8 desistiu!
+
+
+(0:17) Cliente numero 9 chegou á loja
+
+(0:19) Cliente numero 7 escolheu o produto C
+
+
+(0:19) Cliente 3 nao prioritario atendido!
+
+
+(0:19) Cliente numero 10 chegou á loja
+
+(0:21) Cliente numero 9 escolheu o produto B
+
+
+(0:22) Cliente 5 nao prioritario atendido!
+
+
+(0:23) Cliente numero 10 escolheu o produto B
+
+
+(0:25) Cliente 7 nao prioritario atendido!
+
+
+
+(0:28) Cliente 9 nao prioritario atendido!
+
+
+
+(0:31) Cliente 10 nao prioritario atendido!
+
+
+
+
+Fim de simulação
+
+
+
+
+Simulação demorou 0 min e 34 sec
+
+
+
+(0:0) Caixa Número 1 Disponivel
+
+
+(0:1) Foi reposto o produto A com 10 unidades
+
+
+(0:1) Cliente prioritário numero 1 chegou á loja
+
+
+(0:2) Foi reposto o produto B com 10 unidades
+
+
+(0:3) Cliente prioritário numero 2 chegou á loja
+
+
+(0:5) Cliente 2 desistiu!
+
+
+(0:5) Cliente prioritário numero 3 chegou á loja
+
+
+(0:5) Cliente 3 desistiu!
+
+
+(0:7) Cliente prioritário numero 4 chegou á loja
+
+(0:9) Cliente numero 5 chegou á loja
+
+(0:11) Cliente numero 6 chegou á loja
+
+
+(0:13) Cliente 6 desistiu!
+
+
+(0:13) Cliente prioritário numero 7 chegou á loja
+
+
+(0:13) Cliente 7 desistiu!
+
+
+(0:15) Cliente prioritário numero 8 chegou á loja
+
+(0:17) Cliente prioritário numero 9 chegou á loja
+
+
+(0:17) Cliente 9 desistiu!
+
+
+(0:19) Cliente prioritário numero 10 chegou á loja
+
+(0:21) Cliente prioritário numero 11 chegou á loja
+
+
+(0:21) Cliente 11 desistiu!
+
+
+(0:22) Cliente numero 1 escolheu o produto B
+
+
+(0:22) Cliente 1 prioritario atendido!
+
+
+
+(0:23) Foi reposto o produto C com 10 unidades
+
+
+(0:23) Cliente prioritário numero 12 chegou á loja
+
+
+(0:25) Cliente 12 desistiu!
+
+
+(0:25) Cliente prioritário numero 13 chegou á loja
+
+(0:27) Cliente prioritário numero 14 chegou á loja
+
+
+(0:29) Cliente 14 desistiu!
+
+
+(0:29) Cliente numero 15 chegou á loja
+
+
+(0:29) Cliente 15 desistiu!
+
+
+(0:31) Cliente prioritário numero 16 chegou á loja
+
+
+(0:33) Cliente 16 desistiu!
+
+
+(0:33) Cliente prioritário numero 17 chegou á loja
+
+(0:35) Cliente prioritário numero 18 chegou á loja
+
+(0:37) Cliente prioritário numero 19 chegou á loja
+
+(0:39) Cliente prioritário numero 20 chegou á loja
+
+
+(0:41) Cliente 20 desistiu!
+
+
+(0:41) Cliente prioritário numero 21 chegou á loja
+
+
+(0:41) Cliente 21 desistiu!
+
+
+(0:43) Cliente prioritário numero 22 chegou á loja
+
+
+(0:45) Cliente 22 desistiu!
+
+
+(0:45) Cliente prioritário numero 23 chegou á loja
+
+
+(0:45) Cliente 23 desistiu!
+
+
+(0:47) Cliente prioritário numero 24 chegou á loja
+
+(0:49) Cliente numero 5 escolheu o produto D
+
+(0:49) Cliente prioritário numero 25 chegou á loja
+
+
+(0:49) Cliente 25 desistiu!
+
+
+(0:51) Cliente prioritário numero 26 chegou á loja
+
+(0:53) Cliente numero 4 escolheu o produto C
+
+
+(0:53) Cliente 4 prioritario atendido!
+
+
+
+(0:53) Cliente 26 desistiu!
+
+
+(0:53) Cliente prioritário numero 27 chegou á loja
+
+(0:55) Cliente prioritário numero 28 chegou á loja
+
+
+(0:57) Cliente 28 desistiu!
+
+
+(0:57) Cliente prioritário numero 29 chegou á loja
+
+
+(0:57) Cliente 29 desistiu!
+
+
+(0:59) Cliente prioritário numero 30 chegou á loja
+
+
+(1:1) Cliente 30 desistiu!
+
+
+(1:1) Cliente prioritário numero 31 chegou á loja
+
+(1:3) Cliente numero 32 chegou á loja
+
+
+(1:4) Caixa Número 2 Disponivel
+
+
+(1:5) Cliente 32 desistiu!
+
+
+(1:5) Cliente prioritário numero 33 chegou á loja
+
+(1:7) Cliente numero 34 chegou á loja
+
+(1:9) Cliente numero 35 chegou á loja
+
+
+(1:11) Cliente 34 desistiu!
+
+
+(1:14) Cliente prioritário numero 36 chegou á loja
+
+(1:14) Cliente numero 8 escolheu o produto B
+
+
+(1:14) Cliente 8 prioritario atendido!
+
+
+(1:14) Cliente prioritário numero 37 chegou á loja
+
+
+(1:14) Cliente 35 desistiu!
+
+
+(1:17) Cliente prioritário numero 38 chegou á loja
+
+
+(1:20) Cliente 37 desistiu!
+
+
+(1:23) Cliente prioritário numero 40 chegou á loja
+
+(1:23) Cliente prioritário numero 39 chegou á loja
+
+(1:23) Cliente prioritário numero 41 chegou á loja
+
+(1:23) Cliente prioritário numero 42 chegou á loja
+
+(1:25) Cliente prioritário numero 43 chegou á loja
+
+
+(1:26) Cliente 42 desistiu!
+
+
+(1:29) Cliente numero 24 escolheu o produto D
+
+
+(1:29) Cliente 24 prioritario atendido!
+
+
+
+(1:29) Cliente 43 desistiu!
+
+
+(1:29) Cliente numero 44 chegou á loja
+
+
+(1:32) Cliente 44 desistiu!
+
+
+(1:32) Cliente prioritário numero 46 chegou á loja
+
+(1:32) Cliente prioritário numero 45 chegou á loja
+
+(1:35) Cliente numero 27 escolheu o produto D
+
+
+(1:35) Cliente 45 desistiu!
+
+
+(1:35) Cliente numero 10 escolheu o produto B
+
+(1:35) Cliente prioritário numero 47 chegou á loja
+
+
+(1:35) Cliente 27 prioritario atendido!
+
+
+
+(1:35) Cliente 46 desistiu!
+
+
+
+(1:38) Cliente 10 prioritario atendido!
+
+
+(1:41) Cliente prioritário numero 48 chegou á loja
+
+(1:41) Cliente prioritário numero 49 chegou á loja
+
+(1:41) Cliente prioritário numero 50 chegou á loja
+
+
+(1:44) Cliente 48 desistiu!
+
+
+
+(1:44) Cliente 50 desistiu!
+
+
+
+(1:44) Cliente 49 desistiu!
+
+
+(1:55) Cliente numero 13 escolheu o produto B
+
+
+(1:55) Cliente 13 prioritario atendido!
+
+
+(2:5) Cliente numero 18 escolheu o produto A
+
+
+(2:5) Cliente 18 prioritario atendido!
+
+
+(2:15) Cliente numero 19 escolheu o produto A
+
+
+(2:15) Cliente 19 prioritario atendido!
+
+
+(2:18) Cliente numero 47 escolheu o produto D
+
+
+(2:18) Cliente 47 prioritario atendido!
+
+
+
+(2:28) Cliente 5 nao prioritario atendido!
+
+
+(2:35) Cliente numero 31 escolheu o produto B
+
+
+(2:35) Cliente 31 prioritario atendido!
+
+
+(3:5) Cliente numero 33 escolheu o produto C
+
+
+(3:5) Cliente 33 prioritario atendido!
+
+
+(3:15) Cliente numero 36 escolheu o produto A
+
+
+(3:15) Cliente 36 prioritario atendido!
+
+
+(3:25) Cliente numero 38 escolheu o produto A
+
+
+(3:25) Cliente 38 prioritario atendido!
+
+
+(3:55) Cliente numero 40 escolheu o produto C
+
+
+(3:55) Cliente 40 prioritario atendido!
+
+
+(4:15) Cliente numero 39 escolheu o produto B
+
+
+(4:15) Cliente 39 prioritario atendido!
+
+
+(4:45) Cliente numero 41 escolheu o produto C
+
+
+(4:45) Cliente 41 prioritario atendido!
+
+
+
+(0:0) Caixa Número 1 Disponivel
+
+
+(0:1) Foi reposto o produto A com 10 unidades
+
+
+(0:1) Cliente numero 1 chegou á loja
+
+
+(0:2) Foi reposto o produto B com 10 unidades
+
+
+(0:3) Cliente prioritário numero 2 chegou á loja
+
+
+(0:3) Foi reposto o produto C com 10 unidades
+
+
+(0:5) Cliente numero 1 escolheu o produto C
+
+
+(0:5) Cliente 1 nao prioritario atendido!
+
+
+(0:5) Cliente prioritário numero 3 chegou á loja
+
+(0:6) Cliente numero 2 escolheu o produto A
+
+(0:7) Cliente prioritário numero 4 chegou á loja
+
+
+(0:8) Cliente 2 prioritario atendido!
+
+
+(0:9) Cliente numero 3 escolheu o produto A
+
+(0:9) Cliente prioritário numero 5 chegou á loja
+
+(0:11) Cliente numero 4 escolheu o produto C
+
+(0:11) Cliente prioritário numero 6 chegou á loja
+
+
+(0:12) Cliente 3 prioritario atendido!
+
+
+(0:13) Cliente numero 5 escolheu o produto A
+
+(0:13) Cliente prioritário numero 7 chegou á loja
+
+(0:15) Cliente numero 6 escolheu o produto C
+
+(0:15) Cliente prioritário numero 8 chegou á loja
+
+
+(0:16) Cliente 4 prioritario atendido!
+
+
+(0:17) Cliente numero 7 escolheu o produto D
+
+(0:17) Cliente prioritário numero 9 chegou á loja
+
+(0:18) Cliente numero 8 escolheu o produto B
+
+(0:19) Cliente prioritário numero 10 chegou á loja
+
+
+(0:20) Cliente 5 prioritario atendido!
+
+
+
+(0:20) Cliente 9 desistiu!
+
+
+
+(0:20) Cliente 10 desistiu!
+
+
+(0:21) Cliente prioritário numero 11 chegou á loja
+
+(0:23) Cliente prioritário numero 12 chegou á loja
+
+
+(0:24) Cliente 6 prioritario atendido!
+
+
+(0:25) Cliente numero 13 chegou á loja
+
+(0:26) Cliente numero 11 escolheu o produto B
+
+(0:27) Cliente prioritário numero 14 chegou á loja
+
+(0:28) Cliente numero 12 escolheu o produto B
+
+
+(0:28) Cliente 7 prioritario atendido!
+
+
+(0:29) Cliente prioritário numero 15 chegou á loja
+
+(0:30) Cliente numero 13 escolheu o produto B
+
+(0:31) Cliente prioritário numero 16 chegou á loja
+
+
+(0:32) Cliente 8 prioritario atendido!
+
+
+(0:32) Cliente numero 14 escolheu o produto C
+
+(0:33) Cliente prioritário numero 17 chegou á loja
+
+(0:34) Cliente numero 15 escolheu o produto C
+
+(0:35) Cliente numero 16 escolheu o produto A
+
+(0:35) Cliente prioritário numero 18 chegou á loja
+
+
+(0:36) Cliente 11 prioritario atendido!
+
+
+(0:37) Cliente numero 17 escolheu o produto A
+
+(0:37) Cliente prioritário numero 19 chegou á loja
+
+(0:39) Cliente numero 18 escolheu o produto B
+
+(0:39) Cliente prioritário numero 20 chegou á loja
+
+
+(0:40) Cliente 12 prioritario atendido!
+
+
+(0:41) Cliente numero 19 escolheu o produto D
+
+(0:42) Cliente numero 20 escolheu o produto C
+
+
+(0:44) Cliente 14 prioritario atendido!
+
+
+
+(0:48) Cliente 15 prioritario atendido!
+
+
+
+(0:52) Cliente 16 prioritario atendido!
+
+
+
+(0:56) Cliente 17 prioritario atendido!
+
+
+
+(1:0) Cliente 18 prioritario atendido!
+
+
+
+(1:4) Cliente 19 prioritario atendido!
+
+
+
+(1:8) Cliente 20 prioritario atendido!
+
+
+
+(1:19) Cliente 13 nao prioritario atendido!
+
+
+
+
+Fim de simulação
+
+
+
+
+Simulação demorou 1 min e 20 sec
+
+
+
+(0:0) Caixa Número 1 Disponivel
+
+(0:1) Cliente prioritário numero 1 chegou á loja
+
+
+(0:1) Cliente 1 desistiu!
+
+
+(0:3) Cliente prioritário numero 2 chegou á loja
+
+(0:5) Cliente prioritário numero 3 chegou á loja
+
+(0:6) Cliente numero 2 escolheu o produto D
+
+
+(0:6) Cliente 2 prioritario atendido!
+
+
+(0:6) Cliente numero 3 escolheu o produto D
+
+(0:7) Cliente numero 4 chegou á loja
+
+
+(0:9) Cliente 3 prioritario atendido!
+
+
+(0:9) Cliente numero 5 chegou á loja
+
+(0:10) Cliente numero 4 escolheu o produto D
+
+(0:10) Cliente numero 5 escolheu o produto A
+
+(0:11) Cliente prioritário numero 6 chegou á loja
+
+(0:13) Cliente prioritário numero 7 chegou á loja
+
+(0:15) Cliente numero 6 escolheu o produto B
+
+
+(0:15) Cliente 6 prioritario atendido!
+
+
+(0:15) Cliente prioritário numero 8 chegou á loja
+
+(0:17) Cliente numero 7 escolheu o produto C
+
+
+(0:17) Cliente 7 prioritario atendido!
+
+
+(0:17) Cliente prioritário numero 9 chegou á loja
+
+(0:18) Cliente numero 8 escolheu o produto D
+
+(0:19) Cliente numero 9 escolheu o produto C
+
+(0:19) Cliente prioritário numero 10 chegou á loja
+
+
+(0:21) Cliente 8 prioritario atendido!
+
+
+(0:21) Cliente prioritário numero 11 chegou á loja
+
+(0:22) Cliente numero 10 escolheu o produto A
+
+(0:23) Cliente numero 11 escolheu o produto A
+
+(0:23) Cliente prioritário numero 12 chegou á loja
+
+
+(0:25) Cliente 9 prioritario atendido!
+
+
+(0:25) Cliente prioritário numero 13 chegou á loja
+
+
+(0:25) Cliente 13 desistiu!
+
+
+(0:27) Cliente numero 12 escolheu o produto C
+
+(0:27) Cliente numero 14 chegou á loja
+
+
+(0:29) Cliente 10 prioritario atendido!
+
+
+(0:29) Cliente prioritário numero 15 chegou á loja
+
+(0:31) Cliente numero 14 escolheu o produto C
+
+(0:31) Cliente prioritário numero 16 chegou á loja
+
+
+(0:33) Cliente 11 prioritario atendido!
+
+
+(0:33) Cliente numero 15 escolheu o produto B
+
+(0:33) Cliente prioritário numero 17 chegou á loja
+
+(0:35) Cliente numero 16 escolheu o produto C
+
+(0:35) Cliente prioritário numero 18 chegou á loja
+
+
+(0:37) Cliente 12 prioritario atendido!
+
+
+(0:37) Cliente numero 17 escolheu o produto B
+
+(0:37) Cliente prioritário numero 19 chegou á loja
+
+
+(0:37) Cliente 19 desistiu!
+
+
+(0:38) Cliente numero 18 escolheu o produto A
+
+(0:39) Cliente numero 20 chegou á loja
+
+
+(0:41) Cliente 15 prioritario atendido!
+
+
+
+(0:41) Cliente 20 desistiu!
+
+
+(0:41) Cliente prioritário numero 21 chegou á loja
+
+(0:42) Cliente numero 21 escolheu o produto A
+
+(0:43) Cliente prioritário numero 22 chegou á loja
+
+
+(0:45) Cliente 16 prioritario atendido!
+
+
+(0:45) Cliente numero 22 tentou escolher o produto A mas não havia stock
+
+
+
+(0:45) Stock do produto A acabou
+
+
+(0:45) Cliente prioritário numero 23 chegou á loja
+
+(0:46) Cliente numero 22 escolheu o produto D
+
+(0:46) Cliente numero 23 escolheu o produto D
+
+(0:47) Cliente numero 24 chegou á loja
+
+(0:49) Cliente numero 24 tentou escolher o produto C mas não havia stock
+
+
+
+(0:49) Stock do produto C acabou
+
+
+
+(0:49) Cliente 17 prioritario atendido!
+
+
+(0:49) Cliente prioritário numero 25 chegou á loja
+
+(0:51) Cliente numero 24 escolheu o produto B
+
+(0:51) Cliente prioritário numero 26 chegou á loja
+
+
+(0:53) Cliente 18 prioritario atendido!
+
+
+(0:53) Cliente numero 25 escolheu o produto B
+
+(0:53) Cliente prioritário numero 27 chegou á loja
+
+(0:53) Cliente numero 27 tentou escolher o produto B mas não havia stock
+
+
+
+(0:53) Stock do produto B acabou
+
+
+(0:54) Cliente numero 26 escolheu o produto D
+
+(0:54) Cliente numero 27 escolheu o produto D
+
+(0:55) Cliente prioritário numero 28 chegou á loja
+
+
+(0:56) Caixa Número 2 Disponivel
+
+
+(0:57) Cliente 21 prioritario atendido!
+
+
+(0:57) Cliente numero 29 chegou á loja
+
+(0:58) Cliente numero 28 escolheu o produto D
+
+(0:59) Cliente prioritário numero 30 chegou á loja
+
+
+(1:0) Cliente 22 prioritario atendido!
+
+
+(1:1) Cliente numero 29 escolheu o produto D
+
+(1:1) Cliente prioritário numero 31 chegou á loja
+
+
+(1:3) Cliente 23 prioritario atendido!
+
+
+(1:3) Cliente prioritário numero 32 chegou á loja
+
+(1:4) Cliente numero 30 escolheu o produto D
+
+(1:5) Cliente prioritário numero 33 chegou á loja
+
+
+(1:6) Cliente 25 prioritario atendido!
+
+
+(1:7) Cliente numero 31 escolheu o produto D
+
+(1:7) Cliente numero 32 escolheu o produto D
+
+(1:7) Cliente prioritário numero 34 chegou á loja
+
+
+(0:0) Caixa Número 1 Disponivel
+
+(0:1) Cliente prioritário numero 1 chegou á loja
+
+
+(0:1) Cliente 1 desistiu!
+
+
+
+(0:0) Caixa Número 1 Disponivel
+
+(0:1) Cliente prioritário numero 1 chegou á loja
+
+
+(0:1) Foi reposto o produto A com 10 unidades
+
+
+(0:3) Cliente numero 2 chegou á loja
+
+(0:3) Cliente numero 1 escolheu o produto B
+
+
+(0:4) Foi reposto o produto B com 10 unidades
+
+
+
+(0:5) Cliente 1 prioritario atendido!
+
+
+(0:5) Cliente prioritário numero 3 chegou á loja
+
+
+(0:5) Cliente 3 desistiu!
+
+
+
+(0:5) Foi reposto o produto C com 10 unidades
+
+
